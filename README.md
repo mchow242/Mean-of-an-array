@@ -11,4 +11,4 @@ Write a program that asks the user to enter 5 numbers, and then prints the arith
     The mean of [5.00, 3.14, 1.23, 100.00, 0.01] is 21.88
 
 # Solution
-The sample solution is shown in the Homework 9.ipynb file. 
+The sample solution is shown in the homework_9.py file. 
