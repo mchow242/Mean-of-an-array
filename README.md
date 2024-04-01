@@ -8,5 +8,4 @@ Write a program that asks the user to enter 5 numbers, and then prints the arith
     number 3: 1.23
     number 4: 100
     number 5: 0.01
-
-  The mean of [5.00, 3.14, 1.23, 100.00, 0.01] is 21.88
+    The mean of [5.00, 3.14, 1.23, 100.00, 0.01] is 21.88
